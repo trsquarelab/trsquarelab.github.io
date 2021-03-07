@@ -1,0 +1,34 @@
+{
+  "applications": [
+    {
+      "name": "Air Attack",
+      "packageName": "com.trsquarelab.planeattack",
+      "description": "A simple game where the objective is to attack/avoid all the obstacles in the path and move forward.",
+      "enabled": true,
+      "image": "http://trsquarelab.com/img/portfolio/flightescape.jpg",
+      "url": "https://play.google.com/store/apps/details?id=com.trsquarelab.planeattack",
+      "sortOrder": 1,
+      "backgroundColor": "#88e2fb"
+    },
+    {
+      "name": "All Men's Morris",
+      "packageName": "com.chikkusoftwares.android.game.board.allmensmorris.free",
+      "description": "A game with three more variants to the classic nine men's morris game, namely three men's morris, six men's morris and twelve men's morris.",
+      "enabled": true,
+      "image": "http://trsquarelab.com/img/portfolio/allmensmorris.png",
+      "url": "https://play.google.com/store/apps/details?id=com.chikkusoftwares.android.game.board.allmensmorris.free",
+      "sortOrder": 2,
+      "backgroundColor": "#f4a24e"
+    },
+    {
+      "name": "Connect Four",
+      "packageName": "com.trsquarelab.connect4",
+      "description": "Classic connect four game",
+      "enabled": true,
+      "image": "http://trsquarelab.com/img/portfolio/connect4.png",
+      "url": "https://play.google.com/store/apps/details?id=com.trsquarelab.connect4",
+      "sortOrder": 3,
+      "backgroundColor": "#28a0be"
+    }
+  ]
+}
